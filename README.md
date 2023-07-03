@@ -1,5 +1,5 @@
-# ML
-Machine Learning Specialization - this repository covers only course assignments
+# [Machine Learning Specialization](https://www.coursera.org/browse/data-science/machine-learning)
+## This repository covers only course assignments
 
 This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
 
